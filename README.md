@@ -1,2 +1,2 @@
-Dataset Titanic
+Logistic regression Titanic Dataset
 
